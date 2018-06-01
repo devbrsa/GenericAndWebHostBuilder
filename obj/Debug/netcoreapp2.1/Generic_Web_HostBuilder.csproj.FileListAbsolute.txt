@@ -1,0 +1,14 @@
+C:\Users\bruno.arruda\Desktop\HostBuilder\Generic_Web_HostBuilder\Generic_Web_HostBuilder\bin\Debug\netcoreapp2.1\Generic_Web_HostBuilder.deps.json
+C:\Users\bruno.arruda\Desktop\HostBuilder\Generic_Web_HostBuilder\Generic_Web_HostBuilder\bin\Debug\netcoreapp2.1\Generic_Web_HostBuilder.runtimeconfig.json
+C:\Users\bruno.arruda\Desktop\HostBuilder\Generic_Web_HostBuilder\Generic_Web_HostBuilder\bin\Debug\netcoreapp2.1\Generic_Web_HostBuilder.runtimeconfig.dev.json
+C:\Users\bruno.arruda\Desktop\HostBuilder\Generic_Web_HostBuilder\Generic_Web_HostBuilder\bin\Debug\netcoreapp2.1\Generic_Web_HostBuilder.dll
+C:\Users\bruno.arruda\Desktop\HostBuilder\Generic_Web_HostBuilder\Generic_Web_HostBuilder\bin\Debug\netcoreapp2.1\Generic_Web_HostBuilder.pdb
+C:\Users\bruno.arruda\Desktop\HostBuilder\Generic_Web_HostBuilder\Generic_Web_HostBuilder\obj\Debug\netcoreapp2.1\Generic_Web_HostBuilder.csprojAssemblyReference.cache
+C:\Users\bruno.arruda\Desktop\HostBuilder\Generic_Web_HostBuilder\Generic_Web_HostBuilder\obj\Debug\netcoreapp2.1\Generic_Web_HostBuilder.csproj.CoreCompileInputs.cache
+C:\Users\bruno.arruda\Desktop\HostBuilder\Generic_Web_HostBuilder\Generic_Web_HostBuilder\obj\Debug\netcoreapp2.1\Generic_Web_HostBuilder.RazorAssemblyInfo.cache
+C:\Users\bruno.arruda\Desktop\HostBuilder\Generic_Web_HostBuilder\Generic_Web_HostBuilder\obj\Debug\netcoreapp2.1\Generic_Web_HostBuilder.RazorAssemblyInfo.cs
+C:\Users\bruno.arruda\Desktop\HostBuilder\Generic_Web_HostBuilder\Generic_Web_HostBuilder\obj\Debug\netcoreapp2.1\Generic_Web_HostBuilder.AssemblyInfoInputs.cache
+C:\Users\bruno.arruda\Desktop\HostBuilder\Generic_Web_HostBuilder\Generic_Web_HostBuilder\obj\Debug\netcoreapp2.1\Generic_Web_HostBuilder.AssemblyInfo.cs
+C:\Users\bruno.arruda\Desktop\HostBuilder\Generic_Web_HostBuilder\Generic_Web_HostBuilder\obj\Debug\netcoreapp2.1\Generic_Web_HostBuilder.RazorTargetAssemblyInfo.cache
+C:\Users\bruno.arruda\Desktop\HostBuilder\Generic_Web_HostBuilder\Generic_Web_HostBuilder\obj\Debug\netcoreapp2.1\Generic_Web_HostBuilder.dll
+C:\Users\bruno.arruda\Desktop\HostBuilder\Generic_Web_HostBuilder\Generic_Web_HostBuilder\obj\Debug\netcoreapp2.1\Generic_Web_HostBuilder.pdb
